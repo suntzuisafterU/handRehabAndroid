@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">handRehabAndroid</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
+    <string name="connect">connect</string>
+    <string name="disconnect">disconnect</string>
 </resources>
